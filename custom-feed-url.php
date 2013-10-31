@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom feed url
-Plugin URI: http://jihais.se
+Plugin URI: https://github.com/jihaisse/custom-feed-url
 Description: Customize your feed URL
 Author: Jean-Sébastien Mansart
 Author URI: http://jihais.se
